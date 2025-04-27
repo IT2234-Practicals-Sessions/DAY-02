@@ -31,7 +31,7 @@ Web Services and Server Technologies - Practical Sessions
 
 Reverse the array using push and pop.
 
-![array operation](https://github.com/user-attachments/assets/48e3124d-a7a2-4439-9e03-0ce71bd4949a)
+![array operation](https://github.com/user-attachments/assets/b20038cb-87c5-40f4-a032-67f31649d488)
 
 
 (08)JSON-->JSON.js
