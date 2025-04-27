@@ -47,7 +47,7 @@ Reverse the array using push and pop.
 05/Find the max and average GPA among the students
 
 
-![json1](https://github.com/user-attachments/assets/86a4074e-2f88-4a5a-9177-e0fe6337a86a)
+![json1](https://github.com/user-attachments/assets/0fd17f51-c8f7-420e-a67b-336b3f303405)
 ![json2](https://github.com/user-attachments/assets/2e127a09-c269-41d5-a0a6-2dc315b5d541)
 ![json3](https://github.com/user-attachments/assets/28f5251b-486c-41cf-9bc6-464a9855b024)
 
